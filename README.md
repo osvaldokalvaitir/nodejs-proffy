@@ -8,7 +8,6 @@
 ![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/nodejs-proffy.svg)
 ![](https://img.shields.io/github/repo-size/osvaldokalvaitir/nodejs-proffy.svg?color=blueviolet)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fosvaldokalvaitir%2Fnodejs-proffy%2Fmaster%2FInsomnia.json)
 
